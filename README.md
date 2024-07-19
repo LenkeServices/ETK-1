@@ -19,4 +19,6 @@ PINAGEM
 ```
 
 ### INSTALAÇÃO ARDUINO IDE
-
+Instale as bibliotecas 
+- RTClib (Adafruit)
+  V: 2.1.4
