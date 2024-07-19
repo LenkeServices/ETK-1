@@ -8,8 +8,8 @@ PINAGEM
 #define IN3 35
 #define IN4 34
 
-#define OUT1 25   // PULSO LIGAR BALANCA
-#define OUT2 26   // PULSO ALIMENTAR PLACA LK2500
+#define OUT1 25 
+#define OUT2 26  
 #define OUT3 2
 #define OUT4 27
 #define OUT5 14
